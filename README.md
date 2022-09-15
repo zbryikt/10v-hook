@@ -5,7 +5,7 @@
 
 ## 設定你的專案庫
 
- - 在 repo -> settings -> webhooks, 建立一個新的 webhook, 並如下設定:
+ - 在 `repo` -> `settings` -> `webhooks`, 建立一個新的 webhook, 並如下設定:
    - payload url: `https://10th.g0v.tw/extapi/deploy`
    - content type: `application/json`
    - secret: 自己隨便設定一個字串, 記得留存.
