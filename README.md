@@ -11,7 +11,7 @@
    - secret: 自己隨便設定一個字串, 記得留存.
    - enable ssl verification on
    - just the push event
-   - active checked
+   - check `active`
  - 把 `tkirbot` 加入你的 collaborator 中.
  - 確認你的專案有一個 `gh-pages` 分支, 內含想要公開的內容
 
