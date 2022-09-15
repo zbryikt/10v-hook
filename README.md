@@ -16,7 +16,7 @@
  - 確認你的專案有一個 `gh-pages` 分支, 內含想要公開的內容
 
 
-## 通知 Kirby
+## 通知 `tkirby`
 
 在 g0v-tw slack 上, 將您的以下資訊私訊給 tkirby:
 
