@@ -13,7 +13,7 @@
    - just the push event
    - check `active`
  - 把 `tkirbot` 加入你的 collaborator 中.
- - 確認你的專案有一個 `gh-pages` 分支, 內含想要公開的內容
+ - 確認你的專案有一個 `gh-pages` 分支, 內含想要公開的內容.
 
 
 ## 通知 `tkirby`
