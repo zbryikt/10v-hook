@@ -4,9 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx serve -r web -o true"
+    "start": "npx server -r web -o true",
+    "deploy": "npx deploy web/static"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@zbryikt/deploy": "^0.0.1"
+  }
 }
