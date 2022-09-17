@@ -21,7 +21,7 @@
 在 g0v-tw slack 上, 將您的以下資訊私訊給 tkirby:
 
  - 專案網址, 如 `https://github.com/zbryikt/10v-hook`
- - 想要的目錄名稱, 如 `hotdog` 會導到 `https://10th.g0v.tw/o/hotdog`
+ - 想要的目錄名稱, 如 `hotdog` 會導到 `https://10th.g0v.tw/hotdog`
  - 在設定專案庫時隨便設定的一個 secret
 
 
